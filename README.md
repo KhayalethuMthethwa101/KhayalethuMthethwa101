@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @KhayalethuMthethwa101<br>- 👀 I’m interested in Software development and website building<br>- 🌱 I’m currently learning JavaScript essentials and Full Stack engineering at Codcademy<br>- 📫 How to reach me: khayalethumthethwa16@gmail.com<br>- ⚡ Fun fact: I enjoy working out and night drives<br>
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khayalethu.mthethwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khayalethu Mthethwa) 
